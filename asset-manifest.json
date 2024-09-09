@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/break-timer/static/css/main.f855e6bc.css",
-    "main.js": "/break-timer/static/js/main.5a8be318.js",
+    "main.js": "/break-timer/static/js/main.3a532c1a.js",
     "index.html": "/break-timer/index.html",
     "main.f855e6bc.css.map": "/break-timer/static/css/main.f855e6bc.css.map",
-    "main.5a8be318.js.map": "/break-timer/static/js/main.5a8be318.js.map"
+    "main.3a532c1a.js.map": "/break-timer/static/js/main.3a532c1a.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.5a8be318.js"
+    "static/js/main.3a532c1a.js"
   ]
 }
